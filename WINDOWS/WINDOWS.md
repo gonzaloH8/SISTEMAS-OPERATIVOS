@@ -201,12 +201,7 @@ PANEL DE CONTROL
 - SFC /REVERT : restablece la configuración inicial (para mayor información, escribe SFC /? en la consola CMD.
 - perfmon.msc -- monitoriza el rendimiento del sistema
 
-# GENERAL
-- Comandos generales Enlace
-- Windows + L --  te devuelve a la pantalla de bloqueo del PC
-- Windows + G -- Inicia la grabadora de pantalla
-- CTRL + Sifth + Windows + B -- resetea los drivers graficos
-- Windows + sifth + S -- crea una captura de pantalla
+
 
 
 ERRORES

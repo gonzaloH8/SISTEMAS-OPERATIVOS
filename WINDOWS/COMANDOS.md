@@ -13,6 +13,8 @@
     - CTRL + Sifth + Windows + B -- resetea los drivers gráficos
     - CTRL + Backespace -- permite ir borrando palabra por palabra
     - CTRL + V -- permite ver un historial de las cosas que has copiado y pegarlas sin importar el orden
+
+    - Click Derecho + Inspeccionar + Windows + Shift + P + screenshot -- permite capturar toda una pagina web
     
 # UTILES DE WINDOWS
 - tor browser(descargar una web oscura numero 1) www.torproject.org (las web tienen un .onion) necesitan the hidden wiki

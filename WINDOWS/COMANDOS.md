@@ -17,10 +17,10 @@
     - Click Derecho + Inspeccionar + Windows + Shift + P + screenshot -- permite capturar toda una pagina web
     
 # UTILES DE WINDOWS
-- tor browser(descargar una web oscura numero 1) www.torproject.org (las web tienen un .onion) necesitan the hidden wiki
-- Windows + X - conexiones de red - Realtek PCI e GbE Family Controll - Opciones avanzadas - Velocidad y Duplex - Negociación automática - 1 Gbps Full Duplex
-- Windows + I - Sistemas - para programadores - finalizar tarea(activar). Permite finalizar programas más rápido
-- Burp Suite (aplicación que te ayuda a evaluar la seguridad de tus páginas web)
-- Nessus (escaner que revisa si tienes algo abierto, por el que pueda entrar)
-- John the Ripper (experto en romper contraseñas)
+    - tor browser(descargar una web oscura numero 1) www.torproject.org (las web tienen un .onion) necesitan the hidden wiki
+    - Windows + X - conexiones de red - Realtek PCI e GbE Family Controll - Opciones avanzadas - Velocidad y Duplex - Negociación automática - 1 Gbps Full Duplex
+    - Windows + I - Sistemas - para programadores - finalizar tarea(activar). Permite finalizar programas más rápido
+    - Burp Suite (aplicación que te ayuda a evaluar la seguridad de tus páginas web)
+    - Nessus (escaner que revisa si tienes algo abierto, por el que pueda entrar)
+    - John the Ripper (experto en romper contraseñas)
 
